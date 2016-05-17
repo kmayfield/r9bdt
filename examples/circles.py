@@ -1,4 +1,5 @@
 # http://pastebin.com/VciE4Js7
+# https://github.com/Karm/SVGPlayground/blob/master/circles/circles.py
 import math
 import random
 
